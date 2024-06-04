@@ -11,10 +11,8 @@
   },
   "tauri": {
     "allowlist": {
-      "all": false,
-      "shell": {
-        "all": false,
-        "open": true
+      "notification": {
+        "all": true
       }
     },
     "macOSPrivateApi": true,
